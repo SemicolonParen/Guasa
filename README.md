@@ -2,6 +2,8 @@
 
 Copyright (c) 2025 GDK Team. All rights reserved.
 
+![GDK](md.asset/gdk.png)
+
 ## Overview
 
 Guasa is a production-ready Java library that provides real-time visual debugging and heap inspection capabilities. It acts as a live debugger/inspector that pops up a GUI showing running objects, their states, and references - essentially providing a visual map of your heap in real-time, similar to IntelliJ's debugger but embedded directly in your application.
